@@ -1,5 +1,5 @@
 body {
-    font-family: Ariel, Verdana;
+    font-family: Arial, Verdana;
     background-color: #000000;
     color: #ffffff;
     margin-top: 20px;
@@ -75,7 +75,7 @@ div.yellow p {
     color: #707070;
 }
 div.green {
-    background-color: #00EB00;
+    background-color: #00D800;
     text-align: left;
     margin-right: 50px;
     border-right: solid #ffffff 5px;
