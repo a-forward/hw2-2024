@@ -42,8 +42,8 @@ div.red {
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: solid #000000 2px;
-    border-left: solid #000000 5px;
+    border-bottom: solid #ffffff 2px;
+    border-left: solid #ffffff 5px;
     border-top: none;
     border-right: none;
 }
@@ -51,8 +51,8 @@ div.blue {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border-top: solid #000000 2px;
-    border-right: solid #000000 5px;
+    border-top: solid #ffffff 2px;
+    border-right: solid #ffffff 5px;
     border-bottom: none;
     border-left: none;
 }
@@ -66,8 +66,8 @@ div.yellow {
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
-    border-bottom: solid #000000 2px;
-    border-left: solid #000000 5px;
+    border-bottom: solid #ffffff 2px;
+    border-left: solid #ffffff 5px;
     border-top: none;
     border-right: none;
 }
@@ -78,8 +78,8 @@ div.green {
     background-color: #00EB00;
     text-align: left;
     margin-right: 50px;
-    border-right: solid #000000 5px;
-    border-top: solid #000000 2px;
+    border-right: solid #ffffff 5px;
+    border-top: solid #ffffff 2px;
     border-left: none;
     border-bottom: none;
 }
