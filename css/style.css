@@ -5,6 +5,7 @@ body {
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: none;
 }
 h1 {
     font-size: 42px;
@@ -43,6 +44,8 @@ div.red {
     margin-left: 50px;
     border-bottom: solid #000000 2px;
     border-left: solid #000000 5px;
+    border-top: none;
+    border-right: none;
 }
 div.blue {
     background-color: #0000FF;
@@ -50,6 +53,8 @@ div.blue {
     margin-right: 50px;
     border-top: solid #000000 2px;
     border-right: solid #000000 5px;
+    border-bottom: none;
+    border-left: none;
 }
 div.blue p {
     color: #C4C4C4;
@@ -63,6 +68,8 @@ div.yellow {
     margin-left: 50px;
     border-bottom: solid #000000 2px;
     border-left: solid #000000 5px;
+    border-top: none;
+    border-right: none;
 }
 div.yellow p {
     color: #707070;
@@ -73,6 +80,8 @@ div.green {
     margin-right: 50px;
     border-right: solid #000000 5px;
     border-top: solid #000000 2px;
+    border-left: none;
+    border-bottom: none;
 }
 footer {
     background: linear-gradient(#000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
@@ -84,4 +93,5 @@ footer p {
     padding-top: 15px;
     padding-bottom: 15px;
     padding-right: 15px;
+    padding-left: none;
 }
